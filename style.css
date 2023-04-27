@@ -1,0 +1,31 @@
+main{
+    display: block;
+    margin :0% auto;
+    margin-top: 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container{
+    text-align: center;
+}
+div{
+    padding: 20px;
+    margin: 20px;
+}
+.title{
+    font-size: xxx-large;
+}
+#num{
+    font-size: 100px;
+    font-style: bold;
+}
+button{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
